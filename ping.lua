@@ -1,7 +1,7 @@
 function run(msg, matches)
     local receiver = get_receiver(msg)
     print('receiver: '..receiver)
-    return "pong"
+    return "Да, хозяин, только по ебалу не бей!!!1"
 end
 
 return {
